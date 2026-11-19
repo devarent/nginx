@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# nginx
+
+<sub>Konfigurasi Nginx untuk reverse proxy, TLS, dan layanan web lokal.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | nginx |
+| Primary language | Mixed / documentation |
+| Topics | configuration, devops, nginx, reverse-proxy, tls, web-server |
+| License | MIT |
+| Branch | master |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+nginx is a hands-on repository focused on: Konfigurasi Nginx untuk reverse proxy, TLS, dan layanan web lokal.. Primary language: Mixed / documentation. Topics: configuration, devops, nginx, reverse-proxy, tls, web-server. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
